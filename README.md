@@ -7,8 +7,7 @@ The coding challenge to filter specific records from given excel files.
 #### Spreasheet 1.2.7
 #### Geokit 1.13.1
 
-### Running
-
+## Running
 Go to the root folder:
 
 `cd /path/to/filter_store`
